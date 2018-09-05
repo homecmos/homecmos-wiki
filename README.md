@@ -14,6 +14,8 @@ simple and carry as little risc for things going wrong as possible.
 ## Project status
 The project has been on hiatus for a long time but will commence shortly.
 
+The previous wiki is available [on archive.org](https://web.archive.org/web/20170514092927/http://homecmos.drawersteak.com:80/wiki/Main_Page).
+
 ## Licensing
 All information on this wiki is provided under the terms of the BSD 3-Clause 
 License, which can be found in the LICENSE file.
