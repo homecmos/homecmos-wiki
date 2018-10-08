@@ -10,7 +10,7 @@ J. Christopher Love, Daniel B. Wolfe, Heiko O. Jacobs, George M. Whitesides
 2001
 https://gmwgroup.harvard.edu/pubs/pdf/757.pdf
 
-## Etch Rates for Micromachining Processingâ€”Part II
+## Etch Rates for Micromachining ProcessingâPart II
 Kirt R. Williams, Kishan Gupta, Matthew Wasilik
 2003
 http://microlab.berkeley.edu/labmanual/chap1/JMEMSEtchRates2(2003).pdf
