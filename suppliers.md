@@ -2,6 +2,10 @@
 This list was taken from the old wiki.
 It might be outdated and is mainly targeted at buyers in the USA.
 
+## Photolithography masks
+  * Laserlab, Inc. (http://laserlab.com/products_and_services.php)
+    Photoplots with up to 8000 DPI
+
 ## Cleanroom accessories  
 
   * Harmony Cleanroom (http://www.harmonycr.com/)
