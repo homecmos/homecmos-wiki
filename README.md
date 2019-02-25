@@ -16,6 +16,13 @@ The project has been on hiatus for a long time but will commence shortly.
 
 The previous wiki is available [on archive.org](https://web.archive.org/web/20170514092927/http://homecmos.drawersteak.com:80/wiki/Main_Page).
 
+## Getting started
+[Background](background.md)
+
+[Basics](basics.md)
+
+[Documents](documents.md)
+
 ## Licensing
 All information on this wiki is provided under the terms of the Creative Commons
 Attribution 4.0 International License (CC-BY 4.0), which can be found in the 
